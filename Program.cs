@@ -1,4 +1,6 @@
 ﻿using Playstore;
+int x = 10;
+int y = x;
 
 Console.WriteLine("My Play Store");
 //  To create Object for class
